@@ -1,4 +1,5 @@
 # Pattern Recognition and Machine Learning - CS5691
+### Assignment 1
 ### Question 1: Weighted Least Squares (WLS)
 - Implemented **WLS from scratch** using a diagonal weight matrix  
 - Compared with **Ordinary Least Squares (OLS)** using residual analysis  
