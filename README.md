@@ -1,6 +1,6 @@
 # CS5691 – Pattern Recognition and Machine Learning
 
-## This repository contains the programming assignments, source code, and technical reports for the course CS5691: Patern Recognition and Machine Learning.
+* This repository contains the programming assignments, source code, and technical reports for the course CS5691: Pattern Recognition and Machine Learning.
 ---
 
 ## Assignment 1 — Regression
