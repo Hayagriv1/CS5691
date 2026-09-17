@@ -44,7 +44,7 @@
 - Plots loss against epochs for learning rates from 1 to 0.0001, and reports train and test accuracy for each.
 - Plots the decision boundary and the confusion matrix for the best learning rate.
 
-**`PRML_Q2.ipynb` — Decision Tree: Football Match Outcome Prediction** *(Question 3 in the assignment)*
+**`PRML_Q2.ipynb` — Decision Tree: Football Match Outcome Prediction**
 - Implements a decision tree using entropy and information gain, with midpoint threshold search for continuous features.
 - Reports train and test accuracy and prints the learned tree structure.
 - Tunes max depth, with plots of train and validation accuracy against depth and of leaf count against depth.
